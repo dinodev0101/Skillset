@@ -1,6 +1,5 @@
 # Skillset
 
--Normal Languages
 
 Normal: C#, JavaScript/TypeScript, Java/Kotlin, Objective-C/Swift/SwiftUI, PHP, Python, Ruby/Liquid
 
